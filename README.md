@@ -8,13 +8,14 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 ### 🚀 About Me
 
 <a target="_blank" align="center">
-  <img align="right" height="150" width="300" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+  <img align="right" top="" height="150" width="300" style="margin-top:-20px;" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 </a>
 
 - 🌱 Currently learning **C# .NET & React**
 - 📝 I regularly write articles on [Medium](https://medium.com/@omeryilmazz)
 - 💬 Ask me about **.NET, React, and software architecture**
 - 📫 Reach me at **ommerylmaz@gmail.com**
+
 
 ---
 
