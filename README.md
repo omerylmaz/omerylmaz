@@ -3,7 +3,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="290" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 </a>
 
 - 🔭 I’m currently working on **Full-Stack Development Projects**
