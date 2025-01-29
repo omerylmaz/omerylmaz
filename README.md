@@ -6,10 +6,21 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **C# .NET & React**
-- 📝 I regularly write articles on [Medium](https://medium.com/@omeryilmazz)
-- 💬 Ask me about **.NET, React, and software architecture**
-- 📫 Reach me at **ommerylmaz@gmail.com**
+<table>
+<tr>
+<td>
+<ul>
+<li>🌱 Currently learning **C# .NET & React**</li>
+<li>📝 I regularly write articles on <a href="https://medium.com/@omeryilmazz">Medium</a></li>
+<li>💬 Ask me about **.NET, React, and software architecture**</li>
+<li>📫 Reach me at **ommerylmaz@gmail.com**</li>
+</ul>
+</td>
+<td>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,7 +56,3 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerylmaz&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerylmaz&layout=compact&theme=dark)
-
----
-
-🔥 **Let's connect and build something amazing together!** 🚀
