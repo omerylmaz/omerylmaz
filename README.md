@@ -1,78 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ömer Yılmaz</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerylmaz&label=Profile%20views&color=0e75b6&style=flat" alt="omerylmaz" /> </p>
+- 🌱 I’m currently learning **C# .Net & React**
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
-</a>
+- 📝 I regularly write articles on [www.medium.com/@omeryilmazz](www.medium.com/@omeryilmazz)
 
-- 🔭 I’m currently working on **Full-Stack Development Projects**
-
-- 🌱 I’m currently learning **C# .NET & React**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@omeryilmazz)
-
-- 💬 Ask me about **.NET, React, and software architecture**
+- 💬 Ask me about **.Net & React**
 
 - 📫 How to reach me **ommerylmaz@gmail.com**
 
----
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 🛠️ Tech Stack
-
-#### Backend:
-- **Languages**: ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/ios-filled/48/000000/sql.png)
-- **Frameworks**: ![.NET](https://img.icons8.com/color/48/000000/dot-net.png) ![Entity Framework](https://img.icons8.com/color/48/000000/entity-framework.png)
-- **Technologies**: ![RabbitMQ](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rabbitmq-message-broker-software-for-implementing-amqp-protocol-logo-color-tal-revivo.png) ![Redis](https://img.icons8.com/color/48/000000/redis.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-
-#### Frontend:
-- **Languages**: ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-- **Frameworks**: ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png)
-- **Technologies**: ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind-css.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-
-#### Databases:
-- ![MSSQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-
-#### DevOps:
-- ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerylmaz&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
-  <img src="https://streak-stats.demolab.com?user=omerylmaz&theme=dark" alt="GitHub Streak" width="400" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ömer-yılmaz-597a9b18a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ömer-yılmaz-597a9b18a" height="30" width="40" /></a>
+<a href="https://medium.com/@omeryilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omeryilmazz" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerylmaz&layout=compact&theme=dark" alt="Top Langs" width="400" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerylmaz&show_icons=true&locale=en&layout=compact" alt="omerylmaz" /></p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/%C3%B6mer-y%C4%B1lmaz-597a9b18a/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/omerylmaz">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/#">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/omeryilmazz">
-				<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/omeryilmaz">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/#">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/#">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/omerylmaz/resume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerylmaz&" alt="omerylmaz" /></p>
