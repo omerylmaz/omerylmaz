@@ -7,9 +7,9 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 
 ### 🚀 About Me
 
-<p align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200" height=125" align="right"/>
-</p>
+<a target="_blank" align="center">
+  <img align="right" height="150" width="300" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+</a>
 
 - 🌱 Currently learning **C# .NET & React**
 - 📝 I regularly write articles on [Medium](https://medium.com/@omeryilmazz)
@@ -18,11 +18,6 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 📡 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-y%C4%B1lmaz-597a9b18a/)  
@@ -51,6 +46,3 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerylmaz&layout=compact&theme=dark)
 
----
-
-🔥 **Let's connect and build something amazing together!** 🚀
