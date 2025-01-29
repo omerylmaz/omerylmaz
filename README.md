@@ -6,9 +6,10 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 ---
 
 ### 🚀 About Me
+<div align="center">
 <table>
 <tr>
-<td>
+<td width="60%">
 <ul>
 <li>🌱 Currently learning **C# .NET & React**</li>
 <li>📝 I regularly write articles on <a href="https://medium.com/@omeryilmazz">Medium</a></li>
@@ -16,11 +17,12 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 <li>📫 Reach me at **ommerylmaz@gmail.com**</li>
 </ul>
 </td>
-<td>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+<td width="40%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnowajl0M3NwY2tzYmFoYTFxanU2ZWU0MDE5NHZ3NWtsbHMyZ2c4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -56,3 +58,7 @@ I'm a software developer specializing in **.NET & React**. Passionate about lear
 ![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerylmaz&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerylmaz&layout=compact&theme=dark)
+
+---
+
+🔥 **Let's connect and build something amazing together!** 🚀
